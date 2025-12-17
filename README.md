@@ -5,7 +5,7 @@
 
 <h2>Technologies Used</h2>
 
-<ol>Python</ol>
-<ol>Tkinter – for building the desktop GUI</ol>
-<ol>Requests – for making HTTP requests to the weather API</ol>
-<ol>OpenWeather API – for weather data</ol>
+<ul>Python</ul>
+<ul>Tkinter – for building the desktop GUI</ul>
+<ul>Requests – for making HTTP requests to the weather API</ul>
+<ul>OpenWeather API – for weather data</l>
